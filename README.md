@@ -36,7 +36,7 @@ Smooth and responsive animation for a polished gameplay experience.
 
 ## **Screenshots / GIFs**
 
-![DapperDasher1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![DapperDasher1](https://github.com/Mecha-NOX/Dapper-Dasher/blob/839ea5e9f84fd2d6a8bde17c6ce275539d5bfb96/GIFs/Dapper-Dasher_HighRes.gif)
 
 ---
 
