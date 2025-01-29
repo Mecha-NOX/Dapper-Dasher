@@ -12,16 +12,16 @@
 
 ## **Features**
 
-- **Dynamic Platformer Gameplay**
+- **Dynamic Platformer Gameplay**   
 Players control a character who can dash, jump, and navigate through different obstacles.
 
-- **Item Collection**
+- **Item Collection**   
 Players can collect coins or other items as they progress through the levels.
 
-- **Obstacles & Traps**
+- **Obstacles & Traps**   
 Levels feature various challenges, including moving platforms and traps that the player avoid.
 
-- **Character Animation**
+- **Character Animation**   
 Smooth and responsive animation for a polished gameplay experience.
 
 ---
